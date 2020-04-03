@@ -1,6 +1,6 @@
-# Tech Conferences in India
+# List of Hackathons in which team World Hackers has participated : 
 
-**Comprehensive list of tech conferences that are held in India.**
+**Tabular list of hackathons held across India**
 ## 2019
 | Hackathon | Date | Venue | Description |
 |------------|------|-------|-------------|
